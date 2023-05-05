@@ -13,3 +13,10 @@
 To address these questions, we will perform various exploratory data analysis (EDA) techniques, including data cleaning, visualization, and statistical analysis. We will also use machine learning algorithms to build predictive models and evaluate their performance.
 
 #### <b>To address these questions, we will perform various exploratory data analysis (EDA) techniques, including data cleaning, visualization, and statistical analysis.</b>
+
+
+## Note:
+
+#### There are two files:
+- ".ipynb" extension can be opened by jupyter notebook, it will show the file completely with each code block letting you change the code yourself!
+- ".html" extension can be used by anyone who do not have jupyter notebook but have a browser. its more of a cleaner way to preview the results and visualizations without having to see the blocks. its hyper text markup language => "webpage"
