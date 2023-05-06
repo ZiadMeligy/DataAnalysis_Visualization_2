@@ -10,7 +10,7 @@
 - How do the characteristics of the patient (e.g., age, gender, health conditions) relate to their likelihood of attending their appointment?
 - Are there any patterns or trends in the scheduling of appointments across different regions, healthcare providers, or time periods?
 - Can we predict the likelihood of a patient showing up for their appointment based on their demographic and medical information?
-To address these questions, we will perform various exploratory data analysis (EDA) techniques, including data cleaning, visualization, and statistical analysis. We will also use machine learning algorithms to build predictive models and evaluate their performance.
+To address these questions, we will perform various exploratory data analysis (EDA) techniques, including data cleaning, visualization, and statistical analysis.
 
 #### <b>To address these questions, we will perform various exploratory data analysis (EDA) techniques, including data cleaning, visualization, and statistical analysis.</b>
 
